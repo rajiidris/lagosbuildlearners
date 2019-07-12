@@ -13,3 +13,7 @@ EMAIL: muhammedopeyemi5@gmail.com
 NAME: Ajewole Tolulope David
 SLACK NAME:Tolulope David
 EMAIL: ajewole.tolulope1@gmail.com
+
+NAME:Raji Idris
+SLACK NAME:Rib
+EMAIL:rajiidristayo@gmail.com
